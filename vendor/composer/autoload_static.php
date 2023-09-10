@@ -32,7 +32,7 @@ class ComposerStaticInit0b968f58b727f4815ecdee809cf66ddd
         ),
         'Apps\\' => 
         array (
-            0 => __DIR__ . '/..' . '/appsbr/php-classes/src',
+            0 => __DIR__ . '/..' . '/apps/classes/src',
         ),
     );
 

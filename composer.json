@@ -14,7 +14,7 @@
     "autoload": {
         "psr-4": {
             "Hcode\\": "vendor\\hcodebr\\php-classes\\src",
-            "Apps\\": "vendor\\appsbr\\php-classes\\src"
+            "Apps\\": "vendor\\apps\\classes\\src"
         }
     }
 }

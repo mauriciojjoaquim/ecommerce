@@ -3,7 +3,7 @@
         'name' => 'mauriciojjoaquim/ecommerce',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '26baa4cd346919ddf7785b16685be5cfc85cdcb1',
+        'reference' => 'd8b4b1fbeb35b7a502005ef1ee3a3e1e79e1dfb5',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'mauriciojjoaquim/ecommerce' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '26baa4cd346919ddf7785b16685be5cfc85cdcb1',
+            'reference' => 'd8b4b1fbeb35b7a502005ef1ee3a3e1e79e1dfb5',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
